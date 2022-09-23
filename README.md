@@ -32,7 +32,7 @@
 - [x] Custom Caption
 
 ### 🧑‍💻 𝗗𝗲𝗽𝗹𝗼𝘆 𝗧𝗼 𝗛𝗲𝗿𝗼𝗸𝘂 👨‍💻
-<a href="https://heroku.com/deploy?template=https://github.com/bossstory/LuciferMoringstar-Robot"><img src="https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LuciferMoringstar_Robot/modules/logo/LuciferMoringstar-Deploy-To-Heroku.jpg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
+<a href="https://heroku.com/deploy?template=https://github.com/mesuk2043/LuciferMoringstar-Robot"><img src="https://github.com/mesuk2043/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LuciferMoringstar_Robot/modules/logo/LuciferMoringstar-Deploy-To-Heroku.jpg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
 
 
 ### 📍 𝗥𝗲𝗾𝘂𝗶𝗿𝗲𝗱
@@ -47,7 +47,7 @@
 * `FORCE_SUB`: ID of channel. Without subscribing this channel users cannot use bot.
 * `AUTH_GROUPS` : Id Of Groups Which Bot Should Work As Autofilter, Bot Can Only Work In Thease Groups. If Not Given , Bot Can Be Used In Any Group.
 * `AUTH_USERS`: Username Or Id Of Users To Give Access Of Inline Search. Separate Multiple Users By Space. Leave It Empty If You Don't Want To Restrict Bot Usage.
-* `START_MSG`: Welcome Message For Start Command Eg [Click Here](https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LuciferMoringstar_Robot/modules/example/start_msg)
+* `START_MSG`: Welcome Message For Start Command Eg [Click Here](https://github.com/mesuk2043/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LuciferMoringstar_Robot/modules/example/start_msg)
 * `CUSTOM_FILE_CAPTION` : A Custom Caption For Your Files. Eg [Click Here](https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LuciferMoringstar_Robot/modules/example/file_caption.txt)
 * `PICS`: Telegraph Random Photo Eg [Click Here](https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LuciferMoringstar_Robot/modules/example/photo.txt)
 * `DEV_NAME` : Developer Name
